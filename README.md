@@ -50,5 +50,3 @@ lib/
     ├── views/
     └── controllers_blocs/
 # gym_manager_pro
-
-A new Flutter project.
